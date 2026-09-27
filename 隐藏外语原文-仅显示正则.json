@@ -1,0 +1,17 @@
+{
+  "id": "5ef9f985-9a32-41a1-9d81-0b6ea6403586",
+  "scriptName": "双语正文：仅显示隐藏原文",
+  "findRegex": "/<bt-original\\s*>[\\s\\S]*?(?:<\\/bt-original\\s*>|(?=<(?:UpdateVariable|tableEdit|JSONPatch|script|style|iframe|details|options|choice|status|stat_data)\\b)|$)/gi",
+  "replaceString": "〔正文译文待显示〕",
+  "trimStrings": [],
+  "placement": [
+    2
+  ],
+  "disabled": false,
+  "markdownOnly": true,
+  "promptOnly": false,
+  "runOnEdit": true,
+  "substituteRegex": 0,
+  "minDepth": null,
+  "maxDepth": null
+}

@@ -1,0 +1,6 @@
+{
+  "version": "0.1.1-candidate",
+  "scriptSha256": "bf8f8724effb0b9b02de3d8f34eae529e234b887e25c7baa3aeb68124b82006c",
+  "realAcceptance": false,
+  "reason": "Candidate only. Full real-Tavern acceptance with the model and companion extensions has not been completed."
+}
